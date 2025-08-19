@@ -1,24 +1,39 @@
 # Langchain
 
-# 🚀 LangChain + Hugging Face Integration
+# 🚀 LangChain Practice Repository
+## 📖 Overview
 
-This repository demonstrates how to build applications using **LangChain** with **Hugging Face models**.  
-It shows how to use free, open-source models (like **Mistral**, **Falcon**, **LLaMA**) for tasks such as **chatting** and **email writing**.
+This repository contains different components, examples, and experiments with LangChain.
+It is meant for learning and practicing how to build applications powered by Large Language Models (LLMs).
 
 ---
 
 ## 📌 Features
-- ✅ Integration of **LangChain** with **Hugging Face**  
-- ✅ Use of **ChatPromptTemplate** for structured prompts  
-- ✅ Example: Writing professional emails  
-- ✅ Example: Simple chat (system & human messages)  
-- ✅ Support for multiple Hugging Face models  
+✅ Practice with Prompt Templates (structured & dynamic prompts)
 
+✅ Building Chains to link multiple steps together
+
+✅ Using Agents to call tools and APIs dynamically
+
+✅ Implementing Memory for conversational context
+
+✅ Exploring Vector Stores (FAISS, Chroma, etc.) for embeddings & search
+
+✅ Trying out different models (OpenAI, Hugging Face, etc.) with LangChain
 ---
 
 ## 🛠️ Installation
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/langchain-huggingface.git
-cd langchain-huggingface
+git clone https://github.com/yourusername/langchain-practice.git
+cd langchain-practice
+
+---
+
+## Install dependencies
+
+pip install -r requirements.txt
+
+
+---
